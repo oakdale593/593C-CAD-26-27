@@ -7,3 +7,4 @@ Ensure there is no russian nesting doll folder (move the `VEX-CAD-Inventor-main`
 Return to the original folder you created, and either `git clone` this repository or just download it as before. If downloaded, ensure no nesting folder.  
 Open Inventor, and open the `.iam` assembly file of the subsystem you want to view.  
 Profit  
+![image of drivetrain](drivetrain.png)
